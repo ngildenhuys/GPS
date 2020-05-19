@@ -1,0 +1,8 @@
+Helpful Websites
+Author: Nicholas Gildehuys
+
+An amalgamation of websites that I found helpful for understanding and development.
+
+MIT OpenCourseWare GPS Class: http://geoweb.mit.edu/~tah/12.540/
+
+
